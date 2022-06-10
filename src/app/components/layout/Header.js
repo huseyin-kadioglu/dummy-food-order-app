@@ -2,7 +2,7 @@ import classes from './Header.module.css';
 import React, {Fragment} from "react";
 
 import mealImg from './../../assets/meals.jpg';
-import HeaderCart from "../view/HeaderCart";
+import HeaderCart from "../view/card/HeaderCart";
 
 const Header = () => {
 
